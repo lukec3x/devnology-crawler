@@ -1,12 +1,18 @@
 ## Como rodar
 
-1. Inicie a API
+1. Instale as bibliotecas
+
+```
+npm i
+```
+
+2. Inicie a API
 
 ```
 npm start
 ```
 
-2. Chame o endpoint de crawler
+3. Chame o endpoint de crawler
 
 ```
 curl localhost:3000/crawler
